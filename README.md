@@ -1,4 +1,4 @@
-<h1 align="center">Heya Welcome to my profile</h1>
+<h1 align="center">Heya, Welcome to my profile</h1>
 <h3 align="center">Feel free to checkout my projects =w=</h3>
 
 <h3 align="left">Connect with me:</h3>
