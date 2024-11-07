@@ -17,9 +17,3 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MystiaFin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<h3>Contact me:</h3>
-<p>
-    <a href="https://instagram.com/stvnzey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="stvnzey" height="30" width="40" /></a>
-    <a href="https://discord.gg/mxtchayeaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mxtchayeaz" height="30" width="40" /></a>
-</p>
