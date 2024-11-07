@@ -1,4 +1,7 @@
-<div style="text-align: center;">
+<div style="
+    display: flex;
+    justify-conten: center;
+    ">
     <h4>Heya, Welcome to my profile</h4>
     <h4>Feel free to checkout my projects =w=</h4>
 </div>
