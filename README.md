@@ -10,4 +10,4 @@
 <br/>
 <img src="https://img.shields.io/badge/NodeJS-%231c0626?style=flat&logo=node.js" alt="NodeJS Badge" /><img src="https://img.shields.io/badge/Prisma-%231c0626?style=flat&logo=prisma" alt="Prisma Badge" />
 
-![Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=date_night)
+![Stats](https://github-readme-stats.vercel.app/api?username=MystiaFin&show_icons=true&theme=date_night)
