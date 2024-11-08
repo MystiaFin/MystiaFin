@@ -1,7 +1,7 @@
-<div style="display: flex; justify-content: center; text-align: center; font-family: 'Courier New', monospace;">
-    <h4>Heya, Welcome to my profile</h4>
-    <h4>Feel free to checkout my projects =w=</h4>
-</div>
+
+Heya, Welcome to my profile
+Feel free to checkout my projects =w=
+
 
 ## Tech Stacks:
 <img src="https://img.shields.io/badge/nextjs-%231c0626?style=flat&logo=next.js" alt="Next.js Badge" /> <img src="https://img.shields.io/badge/React-%231c0626?style=flat&logo=react" alt="React Badge" /><img src="https://img.shields.io/badge/Angular-%231c0626?style=flat&logo=angular&logoColor=%23a82837" alt="Angular Badge" /> <img src="https://img.shields.io/badge/TailwindCSS-%231c0626?style=flat&logo=tailwindcss" alt="TailwindCSS Badge" />
