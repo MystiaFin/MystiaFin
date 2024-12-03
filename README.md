@@ -10,4 +10,4 @@ Feel free to checkout my projects =w=
 <br/>
 <img src="https://img.shields.io/badge/NodeJS-%231c0626?style=flat&logo=node.js" alt="NodeJS Badge" /> <img src="https://img.shields.io/badge/Prisma-%231c0626?style=flat&logo=prisma" alt="Prisma Badge" />
 <br />
-<img src="https://img.shields.io/badge/NeoVim-%231c0626?style=flat&logo=neovim" alt="Neovim Badge" />
+<img src="https://img.shields.io/badge/Neovim-%231c0626?style=flat&logo=neovim" alt="Neovim Badge" />
