@@ -8,6 +8,7 @@ Feel free to checkout my projects =w=
 <br/>
 <img src="https://img.shields.io/badge/Typescript-%231c0626?style=flat&logo=typescript" alt="Typescript Badge" /> <img src="https://img.shields.io/badge/C%2B%2B-%231c0626?style=flat&logo=c%2B%2B" alt="C++ Badge" /> <img src="https://img.shields.io/badge/Rust-1c0626?style=flat&logo=rust" alt="Rust Badge" />
 <br/>
-<img src="https://img.shields.io/badge/NodeJS-%231c0626?style=flat&logo=node.js" alt="NodeJS Badge" /> <img src="https://img.shields.io/badge/Prisma-%231c0626?style=flat&logo=prisma" alt="Prisma Badge" />
+<img src="https://img.shields.io/badge/NodeJS-%231c0626?style=flat&logo=node.js" alt="NodeJS Badge" /> <img src="https://img.shields.io/badge/Express-%231c0626?style=flat&logo=express" alt="Express Badge" /> <img src="https://img.shields.io/badge/Prisma-%231c0626?style=flat&logo=prisma" alt="Prisma Badge" />
 <br />
+https://img.shields.io/badge/Express-%231c0626?style=flat&logo=express
 <img src="https://img.shields.io/badge/Neovim-%231c0626?style=flat&logo=neovim" alt="Neovim Badge" />
