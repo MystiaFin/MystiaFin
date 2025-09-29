@@ -1,5 +1,5 @@
 
 Heya, Welcome to my profile <br />
-Feel free to checkout my projects =w=
+Feel free to checkout my projects =w= <br />
 
-I do full stack, also an unproudly a Linux elitist in some way.
+I do full-stack dev. Also, an unproud Linux elitist.
