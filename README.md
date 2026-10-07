@@ -19,5 +19,5 @@
 ![Laravel](https://img.shields.io/badge/Laravel-30363d?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=white)
 
-## contact
+## Contact
 mystiafin@gmail.com
