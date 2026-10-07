@@ -4,7 +4,7 @@
 
 ⋆｡˚ ✧ ˚｡⋆
 
-## projects
+## Projects
 | name | what it is |
 | --- | --- |
 | **amane** | Rust library for native Wayland desktop shells |
@@ -12,7 +12,7 @@
 | **kemurnian-web** | production school platform I maintain |
 | **scalar-engine** | Go expense tracker with a local LLM for Gmail receipts |
 
-## stack
+## Stack
 ![Rust](https://img.shields.io/badge/Rust-30363d?style=flat-square&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-30363d?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-30363d?style=flat-square&logo=typescript&logoColor=white)
