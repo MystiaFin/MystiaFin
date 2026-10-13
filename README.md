@@ -1,16 +1,9 @@
-> I laid my cards on the table, so here they are.
+> I laid my cards on the table
 
 3rd Year CS Student and a Full-stack dev.
 
 ⋆｡˚ ✧ ˚｡⋆
 
-## Projects
-| name | what it is |
-| --- | --- |
-| **amane** | Rust library for native Wayland desktop shells |
-| **suzuha** | Wayland desktop shell built on amane |
-| **kemurnian-web** | production school platform I maintain |
-| **scalar-engine** | Go expense tracker with a local LLM for Gmail receipts |
 
 ## Stack
 ![Rust](https://img.shields.io/badge/Rust-30363d?style=flat-square&logo=rust&logoColor=white)
