@@ -1,6 +1,6 @@
 > I laid my cards on the table
 
-3rd Year CS Student and a Full-stack dev.
+Certified die hard kanade fan
 
 ⋆｡˚ ✧ ˚｡⋆
 
