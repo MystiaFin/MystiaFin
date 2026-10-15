@@ -4,6 +4,9 @@ Certified die hard kanade fan
 
 ⋆｡˚ ✧ ˚｡⋆
 
+3rd year CS Student and a Full-Stack Developer
+and i do linux ricing(not quite anymore). lol.
+
 
 ## Stack
 ![Rust](https://img.shields.io/badge/Rust-30363d?style=flat-square&logo=rust&logoColor=white)
