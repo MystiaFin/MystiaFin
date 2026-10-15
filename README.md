@@ -5,7 +5,7 @@ Certified die hard kanade fan
 ⋆｡˚ ✧ ˚｡⋆
 
 3rd year CS Student and a Full-Stack Developer
-and i do linux ricing(not quite anymore). lol.
+and i do linux ricing(not quite). lol.
 
 
 ## Stack
