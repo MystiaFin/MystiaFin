@@ -16,4 +16,4 @@ and I do linux ricing(too far).
 ![React](https://img.shields.io/badge/React-30363d?style=flat-square&logo=react&logoColor=white)
 
 ## Contact
-mystiafin@gmail.com
+cytrsx01@gmail.com
